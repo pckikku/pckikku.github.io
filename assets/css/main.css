@@ -2853,3 +2853,9 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.row.g-4 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* allows wrapping on smaller screens */
+}
